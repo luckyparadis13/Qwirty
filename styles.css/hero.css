@@ -1,0 +1,22 @@
+/* HERO */
+.hero {
+  background-color: #eaeaff;
+  padding: 1em;
+  text-align: center;
+}
+.search-bar {
+  margin-top: 0.5em;
+}
+.search-bar input {
+  padding: 0.5em;
+  width: 200px;
+}
+.search-bar button {
+  padding: 0.5em;
+  margin-left: 0.3em;
+}
+.finance-banner {
+  background-color: red;
+  color: white;
+  font-weight: bold;
+}

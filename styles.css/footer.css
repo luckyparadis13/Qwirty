@@ -1,0 +1,21 @@
+/* FOOTER */
+.site-footer {
+  background-color: #3f3fbf;
+  color: white;
+  padding: 2em;
+}
+.footer-grid {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.footer-grid h4 {
+  margin-bottom: 0.5em;
+}
+.footer-grid ul {
+  padding-left: 0;
+}
+.footer-grid li {
+  margin-bottom: 0.3em;
+  font-size: 0.9rem;
+}

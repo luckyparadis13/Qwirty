@@ -1,0 +1,17 @@
+/* HEADER */
+.main-header {
+  background-color: #3f3fbf;
+  color: white;
+}
+.top-nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5em 1em;
+}
+.top-nav li {
+  margin: 0 10px;
+  font-size: 0.9rem;
+}
+.account-actions {
+  margin-left: auto;
+}
